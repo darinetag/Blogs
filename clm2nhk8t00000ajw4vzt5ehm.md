@@ -1,0 +1,49 @@
+---
+title: "Beginner Programmers in Self-doubt … No More."
+seoTitle: "Beginner Programmers in Self-doubt … No More"
+seoDescription: "Top pieces of advice for beginner programmers/ coders/ developers struggling in the tech industry and going through self-doubt. Guide to help."
+datePublished: Sat Sep 02 2023 23:24:00 GMT+0000 (Coordinated Universal Time)
+cuid: clm2nhk8t00000ajw4vzt5ehm
+slug: beginner-programmers-in-self-doubt-no-more
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693696671265/00285840-d18f-42be-8cf3-c88f3320e3e0.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693696999782/45ae36ad-da61-4e20-8885-a3c996153aa4.gif
+tags: advice, beginners, beginners-learningtocode-100daysofcode, codingnewbies, beginnersguide
+
+---
+
+`My friend 🕴, you are not bad at coding; you’re new at coding. Give your self some slack.`
+
+### *Believe in yourself* 🦾
+
+You need to remind yourself of these three powerful words constantly. We all need fuel to keep going, when we focus on the bright side we take control and when we do that we conquer the world, Someone once said “Fear has a big shadow but he himself is small”.  so believing in your own capabilities and loving what you do are your fuel.
+
+### ***Struggling is Part of the Process*** 🤺
+
+*Although*!
+
+What’s beautiful about the tech community is that it’s built on helping one another. And what’s amazing about the internet is **Google**/ **Stackoverflow**/ **Chatgpt**/ **Youtube**  these are your best friends and they’re only a click away. Take a small break, remind yourself why you hopped on this epic journey and come back with a fresh mindset. I’m sure you’ll make it through.
+
+### ***Give it Time*** 🧘
+
+There’s nothing in the whole world that you give energy, time and effort to and doesn’t serve outcome. It’s a FACT. So keep doing what you’re doing, practice, and work hard and it will pay.
+
+### ***Every problem is an invitation*** 🚀
+
+Learn how to see things with a fresh eye, every problem in your life is inviting you to solve it to step up your game and evolve. I like to think of it like debugging. Debugging is computer’s way of pointing at what needs to be fixed so you can fix it. Same for life, problems are there to help you see what needs to be fixed.
+
+### 🦾➕🤺 ➕🧘➕🚀 🟰🟰🟰👩‍💻 🧑‍💻
+
+* There is no better brain, there are people with longer years of experience.
+    
+* Focus on what works for you, try multiple ways of learning and the one that clicks for you is your go-to.
+    
+* Adapt to the programmer mindset (problem-solving, patience, asking for help)
+    
+* Time management is key, it’s a skill to be acquired.  The sooner you learn it, the sooner life gets better.
+    
+* No one needs to know how you did it, “If not broke, don’t fix it”
+    
+* It will click. Programming is a goal like any other. Achievable goal.
+    
+
+*Remember you are not meant to know everything by heart and memorise languages ( because the tech world is constantly changing ) you just need to know the basics and to practice. get to action, Literally CODE.* 🤍
